@@ -101,7 +101,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://aixuexidexiaotan.github.io/2023/03/25/test" data-id="clfnt2xva0005fsu9aeqdf3o7" data-title="test" class="article-share-link">Share</a>
+      <a data-url="https://aixuexidexiaotan.github.io/2023/03/25/test" data-id="clfntdomj00085gu95qu404xk" data-title="test" class="article-share-link">Share</a>
       
       
       
@@ -145,7 +145,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">Tags</h3>
     <div class="widget">
-      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/test/" rel="tag">test</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E6%B5%8B%E8%AF%95/" rel="tag">测试</a></li></ul>
+      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/test/" rel="tag">test</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/test3/" rel="tag">test3</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E6%B5%8B%E8%AF%95/" rel="tag">测试</a></li></ul>
     </div>
   </div>
 
@@ -155,7 +155,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">Tag Cloud</h3>
     <div class="widget tagcloud">
-      <a href="/tags/test/" style="font-size: 10px;">test</a> <a href="/tags/%E6%B5%8B%E8%AF%95/" style="font-size: 10px;">测试</a>
+      <a href="/tags/test/" style="font-size: 10px;">test</a> <a href="/tags/test3/" style="font-size: 10px;">test3</a> <a href="/tags/%E6%B5%8B%E8%AF%95/" style="font-size: 10px;">测试</a>
     </div>
   </div>
 
@@ -175,6 +175,10 @@
     <h3 class="widget-title">Recent Posts</h3>
     <div class="widget">
       <ul>
+        
+          <li>
+            <a href="/2023/03/25/sss">sss</a>
+          </li>
         
           <li>
             <a href="/2023/03/25/test-1">test 1</a>
